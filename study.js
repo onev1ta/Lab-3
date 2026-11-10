@@ -3,7 +3,6 @@ const minutesInput = document.querySelector("#minutes");
 const adviseBtn = document.querySelector("#adviseBtn");
 const result = document.querySelector("#result");
 
-// 
 adviseBtn.addEventListener("click", function() {
 
     
